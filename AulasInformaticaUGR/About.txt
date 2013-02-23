@@ -1,0 +1,9 @@
+Aulas de informática en la Universidad de Granada
+
+Tabla CSV con cinco campos:
+
+Campus Nombre del campus
+Facultad Facultad de ese campus
+Aula El aula en cuestión
+SO: El Sistema Operativo que usan los PCs. Puede ser "XP" para Windows XP. "LINUX" para Linux, "XP LINUX" para ambos y "-" para indefinido.
+Número: Número de PCs de ese aula
