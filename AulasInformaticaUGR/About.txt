@@ -1,5 +1,7 @@
 Aulas de informática en la Universidad de Granada
 
+(OJO: La primera línea del archivo contiene una cabecera)
+
 Tabla CSV con cinco campos:
 
 Campus Nombre del campus
