@@ -1,125 +1,125 @@
-Campus,Centro,Aula,SO,Número,
-Aynadamar,Arquitectura Superior,Aula 1(ASA),XP,12,
-Aynadamar,Arquitectura Superior,Aula 3(ASB),XP,28,
-Aynadamar,Arquitectura Superior,Aula 2(ASC),XP LINUX,20,
-Aynadamar,Bellas Artes,Libre Acceso 1(BAA),XP LINUX,11,
-Aynadamar,Bellas Artes,Aula 2(BAB),XP,24,
-Aynadamar,Bellas Artes,Casa del Almirante(BAC),XP,29,
-Aynadamar,Bellas Artes,Aula (BAD),XP,19,
-Aynadamar,Bellas Artes,Libre Acceso 2(BAE),XP,17,
-Aynadamar,Bellas Artes,Aula (BAF),XP,28,
-Aynadamar,Bellas Artes,Aula (BAG),XP,32,
-Aynadamar,Bellas Artes,Aula (BAH),XP,32,
-Aynadamar,E.T.S.Informática,Aula 2.1,-,38,
-Aynadamar,E.T.S.Informática,Aula 2.2,-,26,
-Aynadamar,E.T.S.Informática,Aula 2.3,-,26,
-Aynadamar,E.T.S.Informática,Aula 2.4,-,26,
-Aynadamar,E.T.S.Informática,Aula 2.5,XP,26,
-Aynadamar,E.T.S.Informática,Aula 2.6,XP,26,
-Aynadamar,E.T.S.Informática,Aula 2.7,XP,24,
-Aynadamar,E.T.S.Informática,Aula 2.8,XP,24,
-Aynadamar,E.T.S.Informática,Aula 2.9,XP,26,
-Aynadamar,E.T.S.Informática,Aula 3.1,XP,42,
-Aynadamar,E.T.S.Informática,Aula 3.2,XP,26,
-Aynadamar,E.T.S.Informática,Aula 3.3,XP,27,
-Aynadamar,E.T.S.Informática,Aula 3.4,XP,26,
-Aynadamar,E.T.S.Informática,Aula 3.5,XP,26,
-Aynadamar,E.T.S.Informática,Aula 3.6,XP,26,
-Aynadamar,E.T.S.Informática,Aula 3.7,XP,26,
-Aynadamar,E.T.S.Informática,Aula 3.8,XP,24,
-Aynadamar,E.T.S.Informática,Aula 3.9,-,24,
-Aynadamar,E.T.S.Informática,Aula 3.10,XP,25,
-Aynadamar,E.T.S.Informática,Aula 3.11,-,4,
-Aynadamar,E.T.S.Informática,Aula D1,XP,16,
-Aynadamar,E.T.S.Informática,Aula D2,XP,23,
-Aynadamar,E.T.S.Informática,Libre Acceso,-,18,
-Aynadamar,E.T.S.Informática,Aula Centrino,XP,39,
-Cartuja,Nodo Cartuja,Sala Posgrado (FIS),XP,10,
-Cartuja,Nodo Cartuja,Aula Pragma (FIP),XP LINUX,26,
-Cartuja,Filosofía y Letras,Aula 1(FIA),XP LINUX,28,
-Cartuja,Filosofía y Letras,Aula 2(FIB),XP,20,
-Cartuja,Filosofía y Letras,Aula 5(FIC),XP,40,
-Cartuja,Filosofía y Letras,Semin. 4(FID),XP,13,
-Cartuja,Filosofía y Letras,Aula 4(FIE),XP,37,
-Cartuja,Filosofía y Letras,Aula 6(FIF),XP,16,
-Cartuja,Filosofía y Letras,Aula 21(FIG),XP,30,
-Cartuja,Biblioteconomía,Aula 1 (BIA),XP LINUX,30,
-Cartuja,Biblioteconomía,Aula 2 (BIB),XP LINUX,25,
-Cartuja,Biblioteconomía,Aula 3 (BIC),XP LINUX,20,
-Cartuja,Biblioteconomía,Aula 4 (BID),XP LINUX,27,
-Cartuja,Biblioteconomía,Aula 5 (BIF),XP LINUX,30,
-Cartuja,Biblioteconomía,Seminario (BIE),XP LINUX,15,
-Cartuja,Ciencias de la Educación,Aula 1(CEA),XP LINUX,31,
-Cartuja,Ciencias de la Educación,Aula 2(CEB),XP,57,
-Cartuja,Ciencias de la Educación,Aulario 1(CEC),XP,72,
-Cartuja,Ciencias de la Educación,Aulario 2(CED),XP,25,
-Cartuja,Ciencias de la Educación,(CEE),XP,33,
-Cartuja,Empresariales,Aula 1 (EMA),XP,39,
-Cartuja,Empresariales,Aula 3 (EMC),XP,35,
-Cartuja,Empresariales,Aula 2 (EMD),XP LINUX,35,
-Cartuja,Empresariales,Aula 5 (EME),XP,48,
-Cartuja,Empresariales,Aula 5 (EME),XP,56,
-Cartuja,FCAFD,Aula 1(CDA),XP,20,
-Cartuja,FCAFD,Aula 2(CDB),XP,48,
-Cartuja,FCAFD,Aula 3(CDC),XP LINUX,31,
-Cartuja,Odontología,Aula 1(ODA),XP LINUX,20,
-Cartuja,Farmacia,Aula FAA,XP,24,
-Cartuja,Farmacia,Aula FAB,XP,33,
-Cartuja,Farmacia,Aula FAC,XP,31,
-Cartuja,Farmacia,Aula FAD,XP LINUX,26,
-Cartuja,Psicología,Aula 1(PSA),XP,32,
-Cartuja,Psicología,Aula 2(PSB),XP LINUX,22,
-Cartuja,Psicología,Aula 3(PSC),XP,15,
-Cartuja,Centro Enseñanzas Virtuales (CEVUG),Aula 1.2(CVA),XP LINUX,46,
-Centro,Derecho,Aulario (DEA),XP,68,
-Centro,Derecho,Libre Acceso(DEB),XP LINUX,85,
-Centro,Políticas,Aula 1(POA),XP,41,
-Centro,Políticas,Aula 2(POB),XP,23,
-Centro,Políticas,Aula 3(POC),XP,18,
-Centro,Políticas,Aula 4(POD),XP,15,
-Centro,Políticas,Aula Universia(POU),XP LINUX,40,
-Centro,Políticas,Aula Móvil1(PPB),XP,20,
-Centro,Políticas,Aula Móvil2(PPC),XP,21,
-Centro,E.U. Trabajo Social,Aula 1(TSA),XP LINUX,36,
-Centro,Facultad de Ciencias del Trabajo,Aula 2(CTB),XP,31,
-Centro,Facultad de Ciencias del Trabajo,Aula 3(CTC),XP LINUX,21,
-Centro,Traductores,Aula 1(TRA),XP,20,
-Centro,Traductores,Aula 16 (TRB),XP LINUX,24,
-Centro,Traductores,Aula 17 (TRC),XP,24,
-Centro,Traductores,Aula 19 (TRD),XP,32,
-Centro,Traductores,Aula 20 (TRE),XP,32,
-Ceuta,Ceuta,Aula 1 (CUA),XP,21,
-Ceuta,Ceuta,Aula 2 (CUB),XP,25,
-Fuentenueva,Ciencias,Aula 1(CIA),XP,13,
-Fuentenueva,Ciencias,Aula 23(CIB),XP LINUX,16,
-Fuentenueva,Ciencias,Aula 4(CIC),XP LINUX,40,
-Fuentenueva,Ciencias,Aula 5(CID),XP LINUX,24,
-Fuentenueva,Ciencias,Aula 6(CIE),XP LINUX,23,
-Fuentenueva,Ciencias,Aula 7(CIF),XP LINUX,26,
-Fuentenueva,Ciencias,Aula 8(CIG),XP LINUX,17,
-Fuentenueva,Ciencias,Aula 9(CIH),XP LINUX,21,
-Fuentenueva,Ciencias,Aula o22(CII),XP LINUX,18,
-Fuentenueva,Ciencias,Aula o21(CIJ),XP LINUX,16,
-Fuentenueva,Ciencias,Aula Química(CIQ),XP,15,
-Fuentenueva,Ciencias,Decanato(DCA),XP LINUX,29,
-Fuentenueva,E. T. S. Ingeniería de Edificación,Aula 3(ATA),XP,46,
-Fuentenueva,E. T. S. Ingeniería de Edificación,Aula 4(ATB),XP LINUX,22,
-Fuentenueva,E. T. S. Ingeniería de Edificación,Aula 1(ATC),XP,40,
-Fuentenueva,E. T. S. Ingeniería de Edificación,Aula 2(ATD),XP,48,
-Fuentenueva,Caminos,Aula 9(CMA),XP,40,
-Fuentenueva,Caminos,Libre Acceso(CMB),XP LINUX,23,
-Fuentenueva,Caminos,Aula 78(CMC),XP,44,
-Fuentenueva,Caminos,Aula Ing. Civil(ICA),XP,24,
-Fuentenueva,Caminos,Aula Expr. Gráfica(EXA),XP,25,
-Fuentenueva,Caminos,Aula 23(AMA),XP LINUX,48,
-Fuentenueva,Ingeniería Química,Aula 1(IQA),XP,36,
-Fuentenueva,Mecenas,Sala Almijara (SIA),XP LINUX,20,
-Fuentenueva,Medicina,Aula 1(MEA),XP,31,
-Fuentenueva,Medicina,Biosanitaria (MEC),XP LINUX,26,
-Fuentenueva,Medicina,Pasillo (MED),XP,30,
-Fuentenueva,Ciencias de la Salud,Aula 1(ENA),XP,24,
-Fuentenueva,Ciencias de la Salud,Aula 2(ENB),XP,44,
-Fuentenueva,Ciencias de la Salud,Aula 3(ENC),XP LINUX,44,
-Melilla,Empresariales,Aula MLA,XP,20,
-Melilla,Educ. y Humanidades,Aula MLB,XP,30,
-P. T. S.,Centro Investigación Biomédica,Aula CBA,XP,17,
+Campus,Centro,Aula,SO,Número
+Aynadamar,Arquitectura Superior,Aula 1(ASA),XP,12
+Aynadamar,Arquitectura Superior,Aula 3(ASB),XP,28
+Aynadamar,Arquitectura Superior,Aula 2(ASC),XP LINUX,20
+Aynadamar,Bellas Artes,Libre Acceso 1(BAA),XP LINUX,11
+Aynadamar,Bellas Artes,Aula 2(BAB),XP,24
+Aynadamar,Bellas Artes,Casa del Almirante(BAC),XP,29
+Aynadamar,Bellas Artes,Aula (BAD),XP,19
+Aynadamar,Bellas Artes,Libre Acceso 2(BAE),XP,17
+Aynadamar,Bellas Artes,Aula (BAF),XP,28
+Aynadamar,Bellas Artes,Aula (BAG),XP,32
+Aynadamar,Bellas Artes,Aula (BAH),XP,32
+Aynadamar,E.T.S.Informática,Aula 2.1,-,38
+Aynadamar,E.T.S.Informática,Aula 2.2,-,26
+Aynadamar,E.T.S.Informática,Aula 2.3,-,26
+Aynadamar,E.T.S.Informática,Aula 2.4,-,26
+Aynadamar,E.T.S.Informática,Aula 2.5,XP,26
+Aynadamar,E.T.S.Informática,Aula 2.6,XP,26
+Aynadamar,E.T.S.Informática,Aula 2.7,XP,24
+Aynadamar,E.T.S.Informática,Aula 2.8,XP,24
+Aynadamar,E.T.S.Informática,Aula 2.9,XP,26
+Aynadamar,E.T.S.Informática,Aula 3.1,XP,42
+Aynadamar,E.T.S.Informática,Aula 3.2,XP,26
+Aynadamar,E.T.S.Informática,Aula 3.3,XP,27
+Aynadamar,E.T.S.Informática,Aula 3.4,XP,26
+Aynadamar,E.T.S.Informática,Aula 3.5,XP,26
+Aynadamar,E.T.S.Informática,Aula 3.6,XP,26
+Aynadamar,E.T.S.Informática,Aula 3.7,XP,26
+Aynadamar,E.T.S.Informática,Aula 3.8,XP,24
+Aynadamar,E.T.S.Informática,Aula 3.9,-,24
+Aynadamar,E.T.S.Informática,Aula 3.10,XP,25
+Aynadamar,E.T.S.Informática,Aula 3.11,-,4
+Aynadamar,E.T.S.Informática,Aula D1,XP,16
+Aynadamar,E.T.S.Informática,Aula D2,XP,23
+Aynadamar,E.T.S.Informática,Libre Acceso,-,18
+Aynadamar,E.T.S.Informática,Aula Centrino,XP,39
+Cartuja,Nodo Cartuja,Sala Posgrado (FIS),XP,10
+Cartuja,Nodo Cartuja,Aula Pragma (FIP),XP LINUX,26
+Cartuja,Filosofía y Letras,Aula 1(FIA),XP LINUX,28
+Cartuja,Filosofía y Letras,Aula 2(FIB),XP,20
+Cartuja,Filosofía y Letras,Aula 5(FIC),XP,40
+Cartuja,Filosofía y Letras,Semin. 4(FID),XP,13
+Cartuja,Filosofía y Letras,Aula 4(FIE),XP,37
+Cartuja,Filosofía y Letras,Aula 6(FIF),XP,16
+Cartuja,Filosofía y Letras,Aula 21(FIG),XP,30
+Cartuja,Biblioteconomía,Aula 1 (BIA),XP LINUX,30
+Cartuja,Biblioteconomía,Aula 2 (BIB),XP LINUX,25
+Cartuja,Biblioteconomía,Aula 3 (BIC),XP LINUX,20
+Cartuja,Biblioteconomía,Aula 4 (BID),XP LINUX,27
+Cartuja,Biblioteconomía,Aula 5 (BIF),XP LINUX,30
+Cartuja,Biblioteconomía,Seminario (BIE),XP LINUX,15
+Cartuja,Ciencias de la Educación,Aula 1(CEA),XP LINUX,31
+Cartuja,Ciencias de la Educación,Aula 2(CEB),XP,57
+Cartuja,Ciencias de la Educación,Aulario 1(CEC),XP,72
+Cartuja,Ciencias de la Educación,Aulario 2(CED),XP,25
+Cartuja,Ciencias de la Educación,(CEE),XP,33
+Cartuja,Empresariales,Aula 1 (EMA),XP,39
+Cartuja,Empresariales,Aula 3 (EMC),XP,35
+Cartuja,Empresariales,Aula 2 (EMD),XP LINUX,35
+Cartuja,Empresariales,Aula 5 (EME),XP,48
+Cartuja,Empresariales,Aula 5 (EME),XP,56
+Cartuja,FCAFD,Aula 1(CDA),XP,20
+Cartuja,FCAFD,Aula 2(CDB),XP,48
+Cartuja,FCAFD,Aula 3(CDC),XP LINUX,31
+Cartuja,Odontología,Aula 1(ODA),XP LINUX,20
+Cartuja,Farmacia,Aula FAA,XP,24
+Cartuja,Farmacia,Aula FAB,XP,33
+Cartuja,Farmacia,Aula FAC,XP,31
+Cartuja,Farmacia,Aula FAD,XP LINUX,26
+Cartuja,Psicología,Aula 1(PSA),XP,32
+Cartuja,Psicología,Aula 2(PSB),XP LINUX,22
+Cartuja,Psicología,Aula 3(PSC),XP,15
+Cartuja,Centro Enseñanzas Virtuales (CEVUG),Aula 1.2(CVA),XP LINUX,46
+Centro,Derecho,Aulario (DEA),XP,68
+Centro,Derecho,Libre Acceso(DEB),XP LINUX,85
+Centro,Políticas,Aula 1(POA),XP,41
+Centro,Políticas,Aula 2(POB),XP,23
+Centro,Políticas,Aula 3(POC),XP,18
+Centro,Políticas,Aula 4(POD),XP,15
+Centro,Políticas,Aula Universia(POU),XP LINUX,40
+Centro,Políticas,Aula Móvil1(PPB),XP,20
+Centro,Políticas,Aula Móvil2(PPC),XP,21
+Centro,E.U. Trabajo Social,Aula 1(TSA),XP LINUX,36
+Centro,Facultad de Ciencias del Trabajo,Aula 2(CTB),XP,31
+Centro,Facultad de Ciencias del Trabajo,Aula 3(CTC),XP LINUX,21
+Centro,Traductores,Aula 1(TRA),XP,20
+Centro,Traductores,Aula 16 (TRB),XP LINUX,24
+Centro,Traductores,Aula 17 (TRC),XP,24
+Centro,Traductores,Aula 19 (TRD),XP,32
+Centro,Traductores,Aula 20 (TRE),XP,32
+Ceuta,Ceuta,Aula 1 (CUA),XP,21
+Ceuta,Ceuta,Aula 2 (CUB),XP,25
+Fuentenueva,Ciencias,Aula 1(CIA),XP,13
+Fuentenueva,Ciencias,Aula 23(CIB),XP LINUX,16
+Fuentenueva,Ciencias,Aula 4(CIC),XP LINUX,40
+Fuentenueva,Ciencias,Aula 5(CID),XP LINUX,24
+Fuentenueva,Ciencias,Aula 6(CIE),XP LINUX,23
+Fuentenueva,Ciencias,Aula 7(CIF),XP LINUX,26
+Fuentenueva,Ciencias,Aula 8(CIG),XP LINUX,17
+Fuentenueva,Ciencias,Aula 9(CIH),XP LINUX,21
+Fuentenueva,Ciencias,Aula o22(CII),XP LINUX,18
+Fuentenueva,Ciencias,Aula o21(CIJ),XP LINUX,16
+Fuentenueva,Ciencias,Aula Química(CIQ),XP,15
+Fuentenueva,Ciencias,Decanato(DCA),XP LINUX,29
+Fuentenueva,E. T. S. Ingeniería de Edificación,Aula 3(ATA),XP,46
+Fuentenueva,E. T. S. Ingeniería de Edificación,Aula 4(ATB),XP LINUX,22
+Fuentenueva,E. T. S. Ingeniería de Edificación,Aula 1(ATC),XP,40
+Fuentenueva,E. T. S. Ingeniería de Edificación,Aula 2(ATD),XP,48
+Fuentenueva,Caminos,Aula 9(CMA),XP,40
+Fuentenueva,Caminos,Libre Acceso(CMB),XP LINUX,23
+Fuentenueva,Caminos,Aula 78(CMC),XP,44
+Fuentenueva,Caminos,Aula Ing. Civil(ICA),XP,24
+Fuentenueva,Caminos,Aula Expr. Gráfica(EXA),XP,25
+Fuentenueva,Caminos,Aula 23(AMA),XP LINUX,48
+Fuentenueva,Ingeniería Química,Aula 1(IQA),XP,36
+Fuentenueva,Mecenas,Sala Almijara (SIA),XP LINUX,20
+Fuentenueva,Medicina,Aula 1(MEA),XP,31
+Fuentenueva,Medicina,Biosanitaria (MEC),XP LINUX,26
+Fuentenueva,Medicina,Pasillo (MED),XP,30
+Fuentenueva,Ciencias de la Salud,Aula 1(ENA),XP,24
+Fuentenueva,Ciencias de la Salud,Aula 2(ENB),XP,44
+Fuentenueva,Ciencias de la Salud,Aula 3(ENC),XP LINUX,44
+Melilla,Empresariales,Aula MLA,XP,20
+Melilla,Educ. y Humanidades,Aula MLB,XP,30
+P. T. S.,Centro Investigación Biomédica,Aula CBA,XP,17
